@@ -1,18 +1,51 @@
 body, html {
     height: 99%;
     display: grid;
-    background-color: royalblue;
+    background-color: #0162c8;
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    letter-spacing: 0.125rem;
+    border-radius: 2.5rem;
 }
-.center-me {
+.wrapperElegirComida {
 text-align:center;
 margin: auto;
+background-color: #3e4d5e;
+padding: 0.625rem;
+box-shadow: 0px 0px 1.25rem 0px #000000;
+border-radius: 0.625rem;
 }
 #tituloComida{
 
 }
-#botonComida{
-    
+#botonComida {
+    padding: 0.75rem 2.25rem;
+    margin: 0.625rem 0;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.125rem;
+    letter-spacing: 0.125rem;
+    border-radius: 2.5rem;
+    background: linear-gradient(0deg,#755bea,#ff72c0);
 }
-#resultadoComida{
+#resultadoComida {
 
+}
+.alignleft {
+    float: left;
+    border-radius: 0.625rem;
+}
+.alignright {
+    float: right;
+    border-radius: 0.625rem;
+}
+.wrapperTiempo {
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.625rem;
+    background-color:#3e4d5e;
+    margin-bottom: auto;
 }
