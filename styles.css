@@ -14,7 +14,7 @@ text-align:center;
 margin: auto;
 background-color: #3e4d5e;
 padding: 0.625rem;
-box-shadow: 0px 0px 1.25rem 0px #000000;
+box-shadow: 0 0 1.25rem 0 #000000;
 border-radius: 0.625rem;
 }
 #tituloComida{
@@ -37,10 +37,14 @@ border-radius: 0.625rem;
 .alignleft {
     float: left;
     border-radius: 0.625rem;
+    margin-left: 0.625rem;
+    margin-right: 0.625rem;
 }
 .alignright {
     float: right;
     border-radius: 0.625rem;
+    margin-right: 0.625rem;
+    margin-left: 0.625rem;
 }
 .wrapperTiempo {
     margin-left: auto;
@@ -48,4 +52,6 @@ border-radius: 0.625rem;
     border-radius: 0.625rem;
     background-color:#3e4d5e;
     margin-bottom: auto;
+    padding: 0.625rem;
+    box-shadow: 0 0 1.25rem 0 #000000;
 }
