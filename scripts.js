@@ -17,7 +17,6 @@ function aniadirComidasInicialesArray () {
   arrayComidas.push("Comida 1");
   arrayComidas.push("Comida 2");
   arrayComidas.push("Comida 3");
-
   let i=0;
   while (i < arrayComidas.length) {
     comidas[i] = new Comida(arrayComidas[i]);
