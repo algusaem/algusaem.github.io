@@ -1,0 +1,18 @@
+body, html {
+    height: 99%;
+    display: grid;
+    background-color: royalblue;
+}
+.center-me {
+text-align:center;
+margin: auto;
+}
+#tituloComida{
+
+}
+#botonComida{
+    
+}
+#resultadoComida{
+
+}
