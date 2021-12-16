@@ -25,6 +25,25 @@ function aniadirComidasInicialesArray () {
   arrayComidas.push("Merluza Rebozada");
   arrayComidas.push("Salmón");
   arrayComidas.push("Arroz con Almejas");
+  arrayComidas.push("Pollo Teriyaki");
+  arrayComidas.push("Pollo Asado");
+  arrayComidas.push("Carrilleras");
+  arrayComidas.push("Concretas");
+  arrayComidas.push("Revuelto de Morcilla");
+  arrayComidas.push("Anchoas Rebozadas");
+  arrayComidas.push("Enchiladas");
+  arrayComidas.push("Ensalada Montañesa");
+  arrayComidas.push("Ensaladilla");
+  arrayComidas.push("Pasta al Ajillo");
+  arrayComidas.push("Ensalada Pasta");
+  arrayComidas.push("Costilla");
+  arrayComidas.push("Tacos");
+  arrayComidas.push("Coliflor Rebozada");
+  arrayComidas.push("Solomillo Cerdo al horno");
+  arrayComidas.push("Solomillo Wellington");
+  arrayComidas.push("Pollo Parmesano");
+  arrayComidas.push("Albóndigas");
+  arrayComidas.push("Chipirones en su Tinta");
   let i=0;
   while (i < arrayComidas.length) {
     comidas[i] = new Comida(arrayComidas[i]);
