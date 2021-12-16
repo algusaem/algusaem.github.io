@@ -28,7 +28,7 @@ function aniadirComidasInicialesArray () {
   arrayComidas.push("Pollo Teriyaki");
   arrayComidas.push("Pollo Asado");
   arrayComidas.push("Carrilleras");
-  arrayComidas.push("Concretas");
+  arrayComidas.push("Cocretas");
   arrayComidas.push("Revuelto de Morcilla");
   arrayComidas.push("Anchoas Rebozadas");
   arrayComidas.push("Enchiladas");
